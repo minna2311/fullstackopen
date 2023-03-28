@@ -1,0 +1,7 @@
+POST  https://moocpart3.fly.dev/api/persons
+Content-Type: application/json
+
+{
+    "name": "John Doe",
+    "number": "123456"
+}
